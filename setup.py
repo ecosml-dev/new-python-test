@@ -5,7 +5,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "ecosml_new-python-test",
+    name = "new-python-test",
     version = "0.0.1",
     author = "jrmerz",
     description = ("this is a test, this is only a test"),
