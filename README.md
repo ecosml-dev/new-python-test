@@ -1,2 +1,3 @@
-# new-python-test
-this is a test, this is only a test
+This is a test package.
+
+This should have a setup.py file
