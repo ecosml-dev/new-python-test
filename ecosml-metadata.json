@@ -5,9 +5,17 @@
   "keywords": [
     "testing test test"
   ],
-  "theme": "chemistry",
-  "family": "nitrogen",
-  "specific": "",
+  "theme": [
+    "chemistry",
+    "physiology"
+  ],
+  "family": [
+    "nitrogen",
+    "fiber"
+  ],
+  "specific": [
+    "% Cellulose"
+  ],
   "organization": "cstars",
   "language": "python",
   "owner": "jrmerz"
